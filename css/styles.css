@@ -1,0 +1,27 @@
+body {
+  background-color: #eeeeee;
+}
+
+a:visited {
+  color: #00adb5;
+}
+
+a:link {
+  color: #890596;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: #393e46;
+  border-width: 8px;
+  width: 10%;
+}
+
+h1, h3 {
+  color: #393e46;
+}
+
+img {
+  border-radius: 100%;
+}
