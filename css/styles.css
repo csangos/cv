@@ -1,13 +1,14 @@
 body {
   background-color: #eeeeee;
+  color: #393e46;
 }
 
 a:visited {
-  color: #00adb5;
+  color: #1597bb;
 }
 
 a:link {
-  color: #890596;
+  color: #ce1212;
 }
 
 hr {
